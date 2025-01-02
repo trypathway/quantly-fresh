@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.next
+.env
+.DS_Store
